@@ -7,8 +7,10 @@ function getBtnAndShow() {
 }
 
 function clearDateAndTime () {
-
+    document.getElementById('time').innerHTML = '';
 }
+getBtnAndShow();
+setInterval(clearDateAndTime, 5000);
 
 
 
