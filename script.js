@@ -6,6 +6,9 @@ function getBtnAndShow() {
     document.getElementById('timeCheckBtn').addEventListener('click', displayDateAndTime);
 }
 
+function clearDateAndTime () {
+
+}
 
 
 
