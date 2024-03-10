@@ -13,6 +13,7 @@ p {
 
 h1 {
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
 }
 
 header {
@@ -31,4 +32,12 @@ img {
 
 body {
     align-content: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 30px;
 }
