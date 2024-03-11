@@ -28,6 +28,7 @@ footer {
 
 img {
     border-radius: 25px;
+    width: 250px;
 }
 
 body {
@@ -40,4 +41,8 @@ ul {
 
 li {
     font-size: 30px;
+}
+
+.vac {
+    width: 500px;
 }
